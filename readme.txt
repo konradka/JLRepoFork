@@ -8,3 +8,6 @@ change made on VM2@AWS
 
 $$$
 change VM2
+
+
+change VM2 2
